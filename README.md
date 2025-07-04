@@ -32,7 +32,7 @@ It lets users discover, search, and book curated experiences, tickets, tours, an
 1️⃣ **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/headout-clone.git
+git clone https://github.com/poojasoftiatric/Headout-Clone.git
 cd headout-clone
 ```
 
